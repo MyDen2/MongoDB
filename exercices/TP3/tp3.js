@@ -1,0 +1,1 @@
+// mongoimport --uri="mongodb://admin:password@localhost:27017/?authSource=admin" --db=bibliotheque --collection=books --file=livre.json --jsonArray
